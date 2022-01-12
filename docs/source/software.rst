@@ -1,3 +1,11 @@
+Software
+=====
+
+.. _installation:
+
+Installation
+------------
+
 This is a new docuemnt for doc:Software
 It will be a new side menu item that we will list software
 
