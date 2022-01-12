@@ -7,6 +7,6 @@ Installation
 ------------
 
 This is a new docuemnt for :doc:`Software`
-It will be a new side menu item that we will list software. could reference :doc:`Useage`
+It will be a new side menu item that we will list software. could reference :doc:`Usage`
 
 I wonder if we can do dynamic Documents.
