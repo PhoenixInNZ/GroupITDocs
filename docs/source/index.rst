@@ -13,7 +13,7 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-
+:doc:`software`
 Wonder why this will not update the tree
 
 Contents
