@@ -20,7 +20,6 @@ Contents
 --------
 
 .. toctree::
-   :hidden:
    usage
    api
    software
