@@ -15,7 +15,7 @@ I wonder if we can do dynamic Documents.
 Simple table:
 
 =====  =====  ======
-   Inputs     Output
+   Inputssadasdas     Output
 ------------  ------
   A      B    A or B
 =====  =====  ======
