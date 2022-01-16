@@ -30,7 +30,10 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 #html_theme = 'nature'
-html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinx_rtd_theme'
+
+extensions.append("sphinxjp.themes.basicstrap")
+html_theme = 'basicstrap'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
