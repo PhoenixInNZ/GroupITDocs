@@ -14,16 +14,16 @@ I wonder if we can do dynamic Documents.
 
 Simple table:
 
-=====  =====  ======
-   Inputssadasdas     Output
-------------  ------
-  A      B    A or B
-=====  =====  ======
-False  False  False
-True   False  True
-False  True   True
-True   True   True
-=====  =====  ======
+========  ========  ======
+   Inputssadasdas   Output
+------------------  ------
+  A         B       A or B
+========  ========  ======
+False     False     False
+True      False     True
+False     True      True
+True      True      True
+========  ========  ======
 
 =====  =====
 Software  Description
