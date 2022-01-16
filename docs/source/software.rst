@@ -11,6 +11,20 @@ It will be a new side menu item that we will list software. could reference :doc
 
 I wonder if we can do dynamic Documents.
 
+
+Simple table:
+
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
+
 ============= =================================================================================
 Software      Description
 ============= =================================================================================
