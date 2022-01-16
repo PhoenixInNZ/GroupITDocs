@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinxjp.themes.basicstrap',
 ]
 
 intersphinx_mapping = {
@@ -32,7 +33,7 @@ templates_path = ['_templates']
 #html_theme = 'nature'
 #html_theme = 'sphinx_rtd_theme'
 
-extensions.append("sphinxjp.themes.basicstrap")
+#extensions.append("sphinxjp.themes.basicstrap")
 html_theme = 'basicstrap'
 
 # -- Options for EPUB output
