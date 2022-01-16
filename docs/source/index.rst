@@ -22,5 +22,6 @@ Contents
 .. toctree::
    usage
    api
+   how can we change this
    software
    sites
