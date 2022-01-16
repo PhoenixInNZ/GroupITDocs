@@ -11,4 +11,4 @@ It will be a new side menu item that we will list software. could reference :doc
 
 I wonder if we can do dynamic Documents.
 
-:doc:`sfiles`	M-Files is the document management system that is currently being used by Legal
+:doc:`m-files`	M-Files is the document management system that is currently being used by Legal
