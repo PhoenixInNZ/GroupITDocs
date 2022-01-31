@@ -15,6 +15,7 @@ how to :ref:`installation` the project.
 
 :doc:`software`
 Wonder why this will not update the tree
+it will when you do it writer :P
 
 Contents
 --------
